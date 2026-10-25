@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,NumPy,Pandas,AI_Basics,Attendance_Percent
+STU001,Aarav Sharma,Electronics,88,91,85,90,92
+STU002,Ananya Rao,Electronics,76,82,79,81,88
+STU003,Rohan Kumar,Computer Science,67,72,70,69,79
+STU004,Diya Nair,Electronics,94,96,92,95,97
+STU005,Ishaan Gupta,Information Science,58,62,60,64,73
+STU006,Meera Iyer,Electronics,81,78,86,84,91
+STU007,Kabir Singh,Computer Science,43,55,48,52,68
+STU008,Saanvi Menon,Information Science,90,87,93,91,95
+STU009,Aditya Joshi,Electronics,39,61,55,58,82
+STU010,Tara Shetty,Computer Science,72,75,77,73,76
+STU011,Vihaan Das,Electronics,64,68,71,66,74
+STU012,Ira Kulkarni,Information Science,85,89,82,88,90
+STU013,Arjun Bhat,Computer Science,48,42,51,46,61
+STU014,Nisha Pillai,Electronics,79,83,80,77,86
+STU015,Reyansh Shah,Information Science,96,94,97,93,99
+STU016,Aditi Verma,Computer Science,55,57,62,59,80
+STU017,Kian Fernandes,Electronics,70,73,68,75,72
+STU018,Pooja Reddy,Information Science,32,38,45,41,88
+STU019,Dev Malhotra,Computer Science,83,80,85,82,93
+STU020,Myra Krishnan,Electronics,61,59,64,63,77
